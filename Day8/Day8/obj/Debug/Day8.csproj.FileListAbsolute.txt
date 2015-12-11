@@ -1,0 +1,6 @@
+C:\Users\jum\Documents\Visual Studio 2015\Projects\Day8\Day8\bin\Debug\Day8.exe.config
+C:\Users\jum\Documents\Visual Studio 2015\Projects\Day8\Day8\bin\Debug\Day8.exe
+C:\Users\jum\Documents\Visual Studio 2015\Projects\Day8\Day8\bin\Debug\Day8.pdb
+C:\Users\jum\Documents\Visual Studio 2015\Projects\Day8\Day8\obj\Debug\Day8.csprojResolveAssemblyReference.cache
+C:\Users\jum\Documents\Visual Studio 2015\Projects\Day8\Day8\obj\Debug\Day8.exe
+C:\Users\jum\Documents\Visual Studio 2015\Projects\Day8\Day8\obj\Debug\Day8.pdb
