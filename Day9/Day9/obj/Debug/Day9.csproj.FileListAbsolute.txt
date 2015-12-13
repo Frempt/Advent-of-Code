@@ -4,3 +4,6 @@ C:\Users\jum\Documents\Visual Studio 2015\Projects\Day9\Day9\bin\Debug\Day9.pdb
 C:\Users\jum\Documents\Visual Studio 2015\Projects\Day9\Day9\obj\Debug\Day9.csprojResolveAssemblyReference.cache
 C:\Users\jum\Documents\Visual Studio 2015\Projects\Day9\Day9\obj\Debug\Day9.exe
 C:\Users\jum\Documents\Visual Studio 2015\Projects\Day9\Day9\obj\Debug\Day9.pdb
+C:\Users\Frempt\Dropbox\Projects\Advent Of Code\Advent-of-Code\Day9\Day9\bin\Debug\Day9.exe.config
+C:\Users\Frempt\Dropbox\Projects\Advent Of Code\Advent-of-Code\Day9\Day9\obj\Debug\Day9.exe
+C:\Users\Frempt\Dropbox\Projects\Advent Of Code\Advent-of-Code\Day9\Day9\obj\Debug\Day9.pdb
